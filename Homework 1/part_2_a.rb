@@ -31,4 +31,6 @@ end
 
 # Casos de teste
 rps_game_winner([["Kristen", "R"], ["Pam", "S"]])
+# => ["Kristen", "R"]
 rps_game_winner([["Alice", "R"], ["Bob", "R"]])
+# => ["Alice", "R"]
