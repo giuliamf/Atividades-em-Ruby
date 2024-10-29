@@ -50,5 +50,5 @@ tournament = [
   ]
 ]
 
-p rps_tournament_winner(tournament)
+p rps_tournament_winner(tournament) # Imprime o array com o vencedor e sua estratégia
 # => ["Richard", "R"]
