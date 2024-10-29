@@ -6,11 +6,11 @@
 
 class Dessert
   def initialize(name, calories)
-    @name = name  
-    @calories = calories  
+    @name = name
+    @calories = calories
   end
   def healthy?
-    @calories < 200 ? true : false # Se as calorias forem menores que 200, retorna true, senão, retorna false
+    @calories < 200 # Se as calorias forem menores que 200, retorna true, senão, retorna false
     end
   def delicious?
     true
