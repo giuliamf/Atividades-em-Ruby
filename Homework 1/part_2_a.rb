@@ -7,7 +7,7 @@ class WrongNumberOfPlayersError < StandardError ; end
 class NoSuchStrategyError < StandardError ; end
 
 def rps_game_winner(game)
-  raise WrongNumberOfPlayersError unless game.length == 2
+  raise WrongNumberOfPlayersError unless game.length == 2  # Verifica se o número de jogadores é igual a 2
 
   valid_strategies = ["R", "P", "S"]  # Define a lista de estratégias válidas
 
