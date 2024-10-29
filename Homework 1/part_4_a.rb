@@ -1,8 +1,8 @@
 # https://github.com/giuliamf
 # Giulia Moura, 200018795
 
-#  Create a class Dessert with getters and setters for name and  calories. Define instance methods healthy?,
-# which returns true if a dessert has less than 200 calories, and delicious?, which returns true for all desserts.
+# Create a class Dessert with getters and setters for name and  calories. 
+# Define instance methods healthy?, which returns true if a dessert has less than 200 calories, and delicious?, which returns true for all desserts.
 
 class Dessert
   def initialize(name, calories)
