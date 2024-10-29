@@ -1,6 +1,3 @@
-# https://github.com/giuliamf
-# Giulia Moura, 200018795
-
 # Write a method that determines whether a given word or phrase is a palindrome, that is, it reads the same backwards as forwards, ignoring case, punctuation, and nonword characters.
 
 def palindrome?(string)
