@@ -6,6 +6,6 @@ def palindrome?(string)
 end
 
 # Casos de teste
-palindrome?("A man, a plan, a canal -- Panama")
-palindrome?("Madam, I'm Adam!")
-palindrome?("Abracadabra")
+palindrome?("A man, a plan, a canal -- Panama") # => true
+palindrome?("Madam, I'm Adam!")  # => true
+palindrome?("Abracadabra")  # => false
