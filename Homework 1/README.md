@@ -6,3 +6,13 @@ Introductory exercises in Ruby, focused on learning string manipulation, the use
 
 ## Part 2: Rock-Paper-Scissors
 In a game of rock-paper-scissors, each player chooses to play Rock (R), Paper (P), or Scissors (S). The rules are: Rock beats Scissors, Scissors beats Paper, but Paper beats Rock. A rock-paper-scissors game is encoded as a list, where the elements are 2-element lists that encode a player’s name and a player’s strategy.
+
+## Part 3: Anagrams
+An anagram is a word obtained by rearranging the letters of another word. For example, "rats",
+"tars" and "star" are an anagram group because they are made up of the same letters.
+
+## Part 4: Basic OOP
+
+## Part 5: advanced OOP,metaprogramming, open classes and duck typing
+
+## Part 6: advanced OOP,metaprogramming, open classes and duck typing, continued
