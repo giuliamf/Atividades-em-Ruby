@@ -9,9 +9,11 @@ class Dessert
     @name = name
     @calories = calories
   end
+  
   def healthy?
     @calories < 200 # Se as calorias forem menores que 200, retorna true, senão, retorna false
-    end
+  end
+  
   def delicious?
     true
   end
