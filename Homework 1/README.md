@@ -1,7 +1,5 @@
 # <p align="center"> Homework 1 </p>
-In this homework, you will do some simple programming exercises to get familiar with the Ruby
-language. We will provide detailed automatic (hopefully) and personalized grading of your
-code.
+In this homework, you will do some simple programming exercises to get familiar with the Ruby language. We will provide detailed automatic (hopefully) and personalized grading of your code.
 
 ##
 ## Part 1: Fun with Strings 
