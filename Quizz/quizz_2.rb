@@ -1,6 +1,3 @@
-# https://github.com/giuliamf
-# Giulia Moura, 200018795
-
 # Estenda o programa que faz o parsing da chamada para permitir que a impressão possa ser ordenada por ordem de
 # matrícula ou por ordem alfabética dos nomes dos alunos utilizando o yield.
 
