@@ -1,6 +1,3 @@
-# https://github.com/giuliamf
-# Giulia Moura, 200018795
-
 # Implementar um programa em Ruby que faça o parser do arquivo anexo e que retorne no seguinte formato:
 # MATRICULA <TAB> NOME_COMPLETO
 
