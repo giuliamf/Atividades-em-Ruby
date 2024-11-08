@@ -1,20 +1,16 @@
-# <p align="center"> Homework 1 </p>
-In this homework, you will do some simple programming exercises to get familiar with the Ruby language. We will provide detailed automatic (hopefully) and personalized grading of your code.
+# <p align="center"> Repositório de Atividades em Ruby</p>
 
-## Part 1: Fun with Strings 
-Introductory exercises in Ruby, focused on learning string manipulation, the use of regular expressions, and the construction of hashes.
+Este repositório contém as resoluções das atividades propostas na documentação, o relatório final e o código desenvolvido como parte do aprendizado em Ruby. A estrutura deste repositório inclui:
 
-## Part 2: Rock-Paper-Scissors
-In a game of rock-paper-scissors, each player chooses to play Rock (R), Paper (P), or Scissors (S). The rules are: Rock beats Scissors, Scissors beats Paper, but Paper beats Rock. A rock-paper-scissors game is encoded as a list, where the elements are 2-element lists that encode a player’s name and a player’s strategy.
+- Resoluções das Atividades: Código completo das atividades propostas, abordando problemas de manipulação de strings, contagem de palavras, lógica de jogos, anagramas, e conceitos de programação orientada a objetos e metaprogramação em Ruby.
+- Relatório: Uma análise detalhada sobre o tema "Como LLM pode promover o aprendizado e o desenvolvimento de aplicações Ruby?", incluindo o uso de Modelos de Linguagem de Grande Escala (LLMs) como o ChatGPT para aprimorar o entendimento e a execução dos exercícios.
+- Documentação: Especificação completa das atividades propostas, descrevendo os requisitos e objetivos de cada exercício.
+## Estrutura do Repositório
+📂 src/: Diretório com os códigos-fonte das atividades, organizados por parte e seguindo a sequência do relatório.
+📄 Relatório.pdf: Documento final com o tema de pesquisa e as análises das atividades desenvolvidas.
+📄 Documentação.pdf: Especificação detalhada das atividades propostas, com requisitos e instruções para cada exercício.
 
-## Part 3: Anagrams
-An anagram is a word obtained by rearranging the letters of another word. For example, "rats", "tars" and "star" are an anagram group because they are made up of the same letters.
-
-## Part 4: Basic OOP
-This part helps you organize your code using classes and objects, a crucial skill for writing maintainable and scalable software.
-
-## Part 5: advanced OOP, metaprogramming, open classes and duck typing
-Part 5 trains you to leverage Ruby’s advanced features, teaching you how to write elegant, expressive, and highly flexible code, which is essential for frameworks like Ruby on Rails.
-
-## Part 6: advanced OOP, metaprogramming, open classes and duck typing, continued
-Part 6 builds upon the advanced concepts introduced in Part 5, continuing the exploration of OOP, metaprogramming, open classes, and duck typing, with deeper focus on more complex implementations. The goal here is to further develop your understanding of Ruby’s unique programming paradigms through more challenging tasks.
+## Como Utilizar Este Repositório
+- Explorar as Resoluções: Navegue pelo diretório src/ para visualizar o código de cada atividade. O código está organizado de forma modular para facilitar a leitura e compreensão.
+- Consultar o Relatório: No arquivo Relatório.pdf, você encontrará uma análise completa sobre o impacto dos LLMs no aprendizado de Ruby e o processo de desenvolvimento das atividades.
+- Verificar a Documentação: O arquivo Documentação.pdf contém a descrição detalhada de cada atividade, permitindo uma compreensão precisa dos requisitos atendidos no desenvolvimento.
