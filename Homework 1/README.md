@@ -7,7 +7,9 @@ Este repositório contém as resoluções das atividades propostas na documenta�
 - Documentação: Especificação completa das atividades propostas, descrevendo os requisitos e objetivos de cada exercício.
 ## Estrutura do Repositório
 📂 src/: Diretório com os códigos-fonte das atividades, organizados por parte e seguindo a sequência do relatório.
+
 📄 Relatório.pdf: Documento final com o tema de pesquisa e as análises das atividades desenvolvidas.
+
 📄 Documentação.pdf: Especificação detalhada das atividades propostas, com requisitos e instruções para cada exercício.
 
 ## Como Utilizar Este Repositório
