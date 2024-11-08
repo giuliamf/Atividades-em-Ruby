@@ -1,4 +1,4 @@
-# <p align="center"> Repositório de Atividades em Ruby</p>
+# <p align="center"> Repositório do Homework 1</p>
 
 Este repositório contém as resoluções das atividades propostas na documentação, o relatório final e o código desenvolvido como parte do aprendizado em Ruby. A estrutura deste repositório inclui:
 
